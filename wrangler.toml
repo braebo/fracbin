@@ -1,0 +1,7 @@
+name = "fracbin"
+account_id = "ea348805594121ba01589915fdb64d47"
+compatibility_date = "2024-03-30"
+
+[[kv_namespaces]]
+binding = "KV"
+id = "e71ac079153649f99e4b227a6b84f20b"
